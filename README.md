@@ -1,5 +1,3 @@
-# the lamp is low
-
-triptych
+the lamp is low
 
 versione_11
